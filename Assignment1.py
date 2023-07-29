@@ -1,6 +1,5 @@
 #Title: Student Grading Program
 
-#Title: Student Grading Program
 
 while True:
 
