@@ -2,7 +2,6 @@
 
 function addSum(a,b)
 {
-   
     console.log("The Sum of Two Numbers are: "+(a+b));
 
 }
