@@ -1,11 +1,12 @@
 // Create a function that takes two numbers as parameters and returns their sum.
 
-function addSum(a,b)
+function product(a,b)
 {
-    console.log("The Sum of Two Numbers are: "+(a+b));
+    
+    console.log("The multiplication of Two Numbers are: "+(a*b));
 
 }
 
-addSum(100,20)
+product(5,20)
 
-addSum(400,400)
+product(10,10)
